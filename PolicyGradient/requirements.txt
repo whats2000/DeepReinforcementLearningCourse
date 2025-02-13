@@ -1,1 +1,3 @@
 gymnasium[accept-rom-license, atari]>=0.27.0
+numpy==2.2.2
+torch==2.6.0
